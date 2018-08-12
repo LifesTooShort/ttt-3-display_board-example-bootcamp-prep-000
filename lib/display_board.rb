@@ -9,4 +9,4 @@ def display_board
   puts board_row
 end
 
-display_board
+
